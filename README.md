@@ -9,8 +9,6 @@ Een desktopapplicatie voor het beheren van een sportschool met Java Swing. De ap
 - [Installatie](#installatie)
 - [Gebruik](#gebruik)
 - [Code Conventies](#conventies)
-- [Bijdragen](#bijdragen)
-- [Licentie](#licentie)
 
 ## Functies
 
