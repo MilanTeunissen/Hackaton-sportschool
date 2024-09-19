@@ -42,3 +42,6 @@ Om dit project uit te voeren, heb je het volgende nodig:
 - Java Development Kit (JDK) versie 8 of hoger
 - Maven (voor het beheren van afhankelijkheden)
 
+## Installatie
+open het met intelliJ
+
